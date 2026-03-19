@@ -4,3 +4,4 @@
 
 - Guilherme Guimarães
 - Tiago Muhlmann
+- Wesley Marques
